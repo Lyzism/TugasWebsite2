@@ -1,0 +1,438 @@
+{
+ "note": "Credits for the photographs in this folder: photos.mjs credits prints the footer block for the ones the pages use.",
+ "photos": [
+  {
+   "file": "photo-f8457453-500.jpg",
+   "files": [
+    "photo-f8457453-500.jpg"
+   ],
+   "id": "f8457453",
+   "alt": "Surabaya Zoo view from the observation deck",
+   "by": "Sakurai Midori",
+   "licence": "CC BY 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Surabaya_Zoo_view_from_the_observation_deck.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f8005017.jpg",
+   "files": [
+    "photo-f8005017-500.jpg",
+    "photo-f8005017-960.jpg",
+    "photo-f8005017.jpg"
+   ],
+   "id": "f8005017",
+   "alt": "Surabaya Zoo",
+   "by": "Sakurai Midori",
+   "licence": "CC BY 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Surabaya_Zoo.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f8457443-500.jpg",
+   "files": [
+    "photo-f8457443-500.jpg"
+   ],
+   "id": "f8457443",
+   "alt": "Surabaya Zoo pond",
+   "by": "Sakurai Midori",
+   "licence": "CC BY 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Surabaya_Zoo_pond.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f69178118-960.jpg",
+   "files": [
+    "photo-f69178118-500.jpg",
+    "photo-f69178118-960.jpg"
+   ],
+   "id": "f69178118",
+   "alt": "Komodo Dewasa",
+   "by": "Humaskbs",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Komodo_Dewasa_.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f202003405-960.jpg",
+   "files": [
+    "photo-f202003405-500.jpg",
+    "photo-f202003405-960.jpg"
+   ],
+   "id": "f202003405",
+   "alt": "Kawanan Komodo",
+   "by": "Ammachemist",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kawanan_Komodo.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201944257-960.jpg",
+   "files": [
+    "photo-f201944257-500.jpg",
+    "photo-f201944257-960.jpg"
+   ],
+   "id": "f201944257",
+   "alt": "Anara si Harimau Putih",
+   "by": "Ammachemist",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Anara_si_Harimau_Putih.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201911765-960.jpg",
+   "files": [
+    "photo-f201911765-500.jpg",
+    "photo-f201911765-960.jpg"
+   ],
+   "id": "f201911765",
+   "alt": "Orang Utan di Surabaya",
+   "by": "Ammachemist",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Orang_Utan_di_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f202004504-500.jpg",
+   "files": [
+    "photo-f202004504-500.jpg"
+   ],
+   "id": "f202004504",
+   "alt": "Orang Utan sedang Berjalan",
+   "by": "Ammachemist",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Orang_Utan_sedang_Berjalan.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f202002042-960.jpg",
+   "files": [
+    "photo-f202002042-500.jpg",
+    "photo-f202002042-960.jpg"
+   ],
+   "id": "f202002042",
+   "alt": "Bekantan Bonbin Surabaya (2)",
+   "by": "Ulumarifah",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bekantan_Bonbin_Surabaya_(2).jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f106148420-960.jpg",
+   "files": [
+    "photo-f106148420-500.jpg",
+    "photo-f106148420-960.jpg"
+   ],
+   "id": "f106148420",
+   "alt": "Bekantan Kebun Binatang Surabaya",
+   "by": "Titik Kartitiani",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Bekantan_Kebun_Binatang_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201886421-960.jpg",
+   "files": [
+    "photo-f201886421-500.jpg",
+    "photo-f201886421-960.jpg"
+   ],
+   "id": "f201886421",
+   "alt": "Keluarga Gajah Sumatera di Kebun Binatang Surabaya",
+   "by": "Zzarrafii",
+   "licence": "CC BY 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Keluarga_Gajah_Sumatera_di_Kebun_Binatang_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201994009-960.jpg",
+   "files": [
+    "photo-f201994009-500.jpg",
+    "photo-f201994009-960.jpg"
+   ],
+   "id": "f201994009",
+   "alt": "Gajah sedang Diberi Makan",
+   "by": "Ammachemist",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gajah_sedang_Diberi_Makan.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201885807-960.jpg",
+   "files": [
+    "photo-f201885807-500.jpg",
+    "photo-f201885807-960.jpg"
+   ],
+   "id": "f201885807",
+   "alt": "Jerapah Berteduh di Kebun Binatang Surabaya",
+   "by": "Ammachemist",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Jerapah_Berteduh_di_Kebun_Binatang_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201947879-960.jpg",
+   "files": [
+    "photo-f201947879-500.jpg",
+    "photo-f201947879-960.jpg"
+   ],
+   "id": "f201947879",
+   "alt": "Unta Punuk Satu di Kebun Binatang Surabaya",
+   "by": "Ammachemist",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Unta_Punuk_Satu_di_Kebun_Binatang_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f202002047-960.jpg",
+   "files": [
+    "photo-f202002047-500.jpg",
+    "photo-f202002047-960.jpg"
+   ],
+   "id": "f202002047",
+   "alt": "Burung Kasuari (2)",
+   "by": "Ulumarifah",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Burung_Kasuari_(2).jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201886088-500.jpg",
+   "files": [
+    "photo-f201886088-500.jpg"
+   ],
+   "id": "f201886088",
+   "alt": "Burung Rangkong atau Enggang 1",
+   "by": "F4hroro",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Burung_Rangkong_atau_Enggang_1.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201943017-500.jpg",
+   "files": [
+    "photo-f201943017-500.jpg"
+   ],
+   "id": "f201943017",
+   "alt": "Kawanan Burung Pecuk Padi Hitam",
+   "by": "F4hroro",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kawanan_Burung_Pecuk_Padi_Hitam.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f100234529-500.jpg",
+   "files": [
+    "photo-f100234529-500.jpg"
+   ],
+   "id": "f100234529",
+   "alt": "A peacock from the Surabaya Zoo collection",
+   "by": "Budibusug",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:A_peacock_from_the_Surabaya_Zoo_collection.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201885226-960.jpg",
+   "files": [
+    "photo-f201885226-500.jpg",
+    "photo-f201885226-960.jpg"
+   ],
+   "id": "f201885226",
+   "alt": "Capybara Family in Surabaya Zoo",
+   "by": "Zzarrafii",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Capybara_Family_in_Surabaya_Zoo.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201885520-960.jpg",
+   "files": [
+    "photo-f201885520-500.jpg",
+    "photo-f201885520-960.jpg"
+   ],
+   "id": "f201885520",
+   "alt": "Anak Rusa di Kebun Binatang Surabaya",
+   "by": "Zzarrafii",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Anak_Rusa_di_Kebun_Binatang_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f202002043-500.jpg",
+   "files": [
+    "photo-f202002043-500.jpg"
+   ],
+   "id": "f202002043",
+   "alt": "Binturong Bonbin Surabaya",
+   "by": "Ulumarifah",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Binturong_Bonbin_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201985109-500.jpg",
+   "files": [
+    "photo-f201985109-500.jpg"
+   ],
+   "id": "f201985109",
+   "alt": "Rusa Jawa 02",
+   "by": "Yoni Astuti",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rusa_Jawa_02.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201952166-500.jpg",
+   "files": [
+    "photo-f201952166-500.jpg"
+   ],
+   "id": "f201952166",
+   "alt": "Babirusa tidur",
+   "by": "Mengsky",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Babirusa_tidur.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201950157-500.jpg",
+   "files": [
+    "photo-f201950157-500.jpg"
+   ],
+   "id": "f201950157",
+   "alt": "Suasana di kandang burung dan kolam",
+   "by": "Mengsky",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Suasana_di_kandang_burung_dan_kolam.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f60167807-960.jpg",
+   "files": [
+    "photo-f60167807-500.jpg",
+    "photo-f60167807-960.jpg"
+   ],
+   "id": "f60167807",
+   "alt": "Makan bareng",
+   "by": "Pintuajaib",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Makan_bareng.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f8457418-500.jpg",
+   "files": [
+    "photo-f8457418-500.jpg"
+   ],
+   "id": "f8457418",
+   "alt": "Agile wallaby Surabaya Zoo 1",
+   "by": "Sakurai Midori",
+   "licence": "CC BY 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Agile_wallaby_Surabaya_Zoo_1.JPG",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201951951-500.jpg",
+   "files": [
+    "photo-f201951951-500.jpg"
+   ],
+   "id": "f201951951",
+   "alt": "Kumpulan bambu kuning",
+   "by": "Mengsky",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Kumpulan_bambu_kuning.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201949975-500.jpg",
+   "files": [
+    "photo-f201949975-500.jpg"
+   ],
+   "id": "f201949975",
+   "alt": "Pepohonan di Area Burung",
+   "by": "Mengsky",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pepohonan_di_Area_Burung.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201950766-500.jpg",
+   "files": [
+    "photo-f201950766-500.jpg"
+   ],
+   "id": "f201950766",
+   "alt": "Papan Kebun Binatang Surabaya",
+   "by": "Mengsky",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Papan_Kebun_Binatang_Surabaya.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f33382081-500.jpg",
+   "files": [
+    "photo-f33382081-500.jpg"
+   ],
+   "id": "f33382081",
+   "alt": "Ratna Ruthina and her husband in the Surabaya Zoo Film Varia May 1954 p15",
+   "by": "Uncredited",
+   "licence": "Public domain",
+   "licenceUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Ratna_Ruthina_and_her_husband_in_the_Surabaya_Zoo_Film_Varia_May_1954_p15.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f201952552-500.jpg",
+   "files": [
+    "photo-f201952552-500.jpg"
+   ],
+   "id": "f201952552",
+   "alt": "Suasana di kandang gajah",
+   "by": "Mengsky",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Suasana_di_kandang_gajah.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f202002854-960.jpg",
+   "files": [
+    "photo-f202002854-500.jpg",
+    "photo-f202002854-960.jpg"
+   ],
+   "id": "f202002854",
+   "alt": "Monyet Bonbin Surabaya (2)",
+   "by": "Ulumarifah",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Monyet_Bonbin_Surabaya_(2).jpg",
+   "source": "Wikimedia Commons"
+  }
+ ]
+}
